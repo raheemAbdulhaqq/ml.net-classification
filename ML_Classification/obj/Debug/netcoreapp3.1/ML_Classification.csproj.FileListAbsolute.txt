@@ -1,0 +1,66 @@
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\ML_Classification.exe
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.AssemblyInfoInputs.cache
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.AssemblyInfo.cs
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\ML_Classification.deps.json
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\ML_Classification.runtimeconfig.json
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\ML_Classification.runtimeconfig.dev.json
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\ML_Classification.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\ML_Classification.pdb
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libCpuMathNative.so
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libCpuMathNative.dylib
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\CpuMathNative.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\CpuMathNative.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.csproj.CopyComplete
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.dll
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.pdb
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Data\trainData.csv
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.csproj.AssemblyReference.cache
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.csproj.CoreCompileInputs.cache
+C:\Users\NOTEBOOK\source\repos\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.genruntimeconfig.cache
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\ML_Classification.exe
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Data\trainData.csv
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\ML_Classification.deps.json
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\ML_Classification.runtimeconfig.json
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\ML_Classification.runtimeconfig.dev.json
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\ML_Classification.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\ML_Classification.pdb
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libCpuMathNative.so
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libCpuMathNative.dylib
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\CpuMathNative.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\CpuMathNative.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.csproj.AssemblyReference.cache
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.AssemblyInfoInputs.cache
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.AssemblyInfo.cs
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.csproj.CoreCompileInputs.cache
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.csproj.CopyComplete
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.dll
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.pdb
+C:\Users\NOTEBOOK\source\repos\sample projects\ML_Classification\ML_Classification\obj\Debug\netcoreapp3.1\ML_Classification.genruntimeconfig.cache
